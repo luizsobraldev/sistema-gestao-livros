@@ -1,4 +1,4 @@
-Integrantes do grupo: 
+# Integrantes do grupo: 
 
-# Luiz Eduardo Oliveira
-# Gabriel Ribeiro
+### Luiz Eduardo Oliveira
+### Gabriel Ribeiro
